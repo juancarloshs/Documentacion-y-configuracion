@@ -1,13 +1,11 @@
 
-                                                  SPOTFLIX
 
-
-El proyecto Spotflix fue desarrollado en 2019 como trabajo de fin de ciclo del ciclo superior de Desarrollo
-de aplicaciones Multiplataforma por Juan Carlos Hita, Roman Pacheco y Oscar Moreno. El proyecto se realizo 
-entre el 15 de marzo y el 6 de junio de 2019 realizando unas practicas laborales de 8h diarias de Lunes a Viernes,
+El proyecto Spotflix fue desarrollado en 2019 como trabajo de fin de curso del ciclo superior de Desarrollo
+de aplicaciones Multiplataforma, por Juan Carlos Hita, Roman Pacheco y Oscar Moreno. El proyecto se realizo 
+entre el 15 de marzo y el 6 de junio de 2019, realizando unas practicas laborales de 8h diarias de Lunes a Viernes,
 lo que quiere excusar, es que gran parte del contenido y el codigo de desarrollo podria ser mejorable o mas optimo,
-pero debido al tener que ajustarnos a unos plazos de tiempo y de que el proyecto nos requirio un gran estudio previo
-para su implementacion, y no nos pudo ser posible realizar ciertas mejoras.
+pero debido al tener que ajustarnos a unos plazos de tiempo y que el proyecto nos requirio un gran estudio previo
+para su implementacion, no nos pudo ser posible realizar ciertas mejoras.
 
 En la Documentacion del proyecto se hace un completo y detallado repaso sobre las tecnologias utilizadas y
 su funcion en la aplicacion. Además se hace una breve revision y explicacion de las interfaces de esta. Es totalmente
