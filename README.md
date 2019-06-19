@@ -1,4 +1,6 @@
 
+                                                  SPOTFLIX
+
 
 El proyecto Spotflix fue desarrollado en 2019 como trabajo de fin de curso del ciclo superior de Desarrollo
 de aplicaciones Multiplataforma, por Juan Carlos Hita, Roman Pacheco y Oscar Moreno. El proyecto se realizo 
@@ -24,3 +26,4 @@ ademas de todos los links contenidos dentro de los ficheros JSON listaPeliculas 
 a la ubicacion del contenido multimedia.
 
 Espero que disfruten y aprendan como nosotros lo hicimos.
+
